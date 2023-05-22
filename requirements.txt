@@ -101,7 +101,7 @@ termcolor
 tflearn
 threadpoolctl
 tika
-tiktoken
+# tiktoken
 tqdm
 typing_extensions
 uritemplate
