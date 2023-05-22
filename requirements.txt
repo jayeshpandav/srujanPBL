@@ -61,7 +61,7 @@ openai==0.27.2
 opt-einsum==3.3.0
 orjson==3.8.10
 packaging==23.0
-pandas==1.5.3
+pandas
 pdfminer==20191125
 Pillow==9.5.0
 pinecone-client==2.2.1
